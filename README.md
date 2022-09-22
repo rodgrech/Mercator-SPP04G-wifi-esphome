@@ -1,6 +1,8 @@
 # Mercator-SPP04G-wifi-esphome
 ESP Home coding for the SPP04G/SPP02G wifi variants
 
+https://www.ikuu.com.au/?attachment_id=22698
+
 GPo04 Button 1
 GPo05 Status LED
 GPO12 Button 2
